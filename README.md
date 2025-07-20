@@ -35,7 +35,7 @@ npm or yarn package manager
 Installation
 Clone the repository
 
-git clone https://github.com/yourusername/airline-demand-analyzer.git
+git clone https://github.com/PAMIDIVENKATAMANASA/airline-demand-analyzer.git
 cd airline-demand-analyzer
 Install dependencies
 
