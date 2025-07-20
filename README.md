@@ -48,7 +48,11 @@ Installation
 Clone the repository
 
 git clone https://github.com/PAMIDIVENKATAMANASA/airline-booking-demand-analyzer.git
+
+
 cd airline-demand-analyzer
+
+
 Install dependencies
 
 npm install
